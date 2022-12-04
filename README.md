@@ -1,1 +1,3 @@
 # GitPractice
+
+Practice using git
