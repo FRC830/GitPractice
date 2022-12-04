@@ -1,2 +1,3 @@
-Hello# GitPractice
-# My name is Andy
+# GitPractice
+
+Practice using git
